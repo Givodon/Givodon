@@ -1,6 +1,6 @@
 # Hi, I'm Nigel Givans 👋
 
-### Data Operations & ETL Specialist | Aspiring Data Engineer | Cloud & Software Engineering
+### Data Operations & ETL Specialist | Aspiring Data Engineer | Cloud & Software Engineering| AI Specialist
 
 I'm a data professional with **7+ years of experience** in data operations, ETL pipeline monitoring, production support, and analytics infrastructure. I'm currently expanding my skills in Python, cloud data engineering, automation, and software development by building practical, hands-on projects.
 
